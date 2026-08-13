@@ -1,3 +1,5 @@
+
+
 # Study Python Repository 🚀🐍
 
 Welcome to the **Study Python** repository! This is a comprehensive collection of Python programs, covering everything from beginner to advanced levels, Data Structures and Algorithms **(DSA)**, LeetCode practice solutions, and a structured **30 Days of Python** challenge. Whether you're just starting or refining your skills, this repo has something for everyone. Let's code more! 💻🔥
@@ -22,7 +24,7 @@ A well-structured roadmap to master Python in **30 days**:
 
 ### 4️⃣ LeetCode & Coding Practice Solutions 🔥
 - Solutions to popular **LeetCode** problems
-- Coding challenges from **HackerRank, CodeSignal, CodeChef, and more is upcoming**
+- Coding challenges from **HackerRank, CodeSignal, CodeChef, and more (upcoming)**
 - Optimized & well-commented solutions
 
 ## 🛠️ How to Use This Repository
